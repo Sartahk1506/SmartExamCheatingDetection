@@ -1,0 +1,10 @@
+Flask
+mysql-connector-python
+opencv-python
+opencv-contrib-python
+mediapipe
+numpy
+scikit-learn
+SpeechRecognition
+Pillow
+Werkzeug
